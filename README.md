@@ -1,3 +1,3 @@
 # firstAttempt
 
-This is the first attempt of the branching program.
+And this is the second one.
